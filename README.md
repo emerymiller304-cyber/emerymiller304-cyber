@@ -12,5 +12,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadako
+[linkedin]: https://linkedin.com/in/joshmadakor
 
