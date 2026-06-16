@@ -12,5 +12,5 @@
 
 
 
-[linkedin]: www.linkedin.com/in/emery-miller0 
+[linkedin]: https://linkedin.com/in/joshmadako
 
